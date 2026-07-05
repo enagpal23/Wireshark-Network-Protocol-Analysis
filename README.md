@@ -14,15 +14,15 @@ Note: Some analyses are based on educational packet captures. The original .pcap
 - UDP
 
 # Skills Demonstrated
--Network packet analysis using Wireshark
--TCP/IP protocol analysis
--HTTP, HTTPS, DNS and SMTP traffic analysis
--Packet inspection and protocol identification
--IP addressing and port number analysis
--Client-server communication analysis
--DNS resolution analysis
--Network troubleshooting fundamentals
--Technical documentation
+- Network packet analysis using Wireshark
+- TCP/IP protocol analysis
+- HTTP, HTTPS, DNS and SMTP traffic analysis
+- Packet inspection and protocol identification
+- IP addressing and port number analysis
+- Client-server communication analysis
+- DNS resolution analysis
+- Network troubleshooting fundamentals
+- Technical documentation
 
 # Files
 Wireshark Analysis.pdf
